@@ -1,0 +1,25 @@
+body{
+    background-color:wheat;
+}
+
+.sufleimg{
+
+    float:left;
+padding: 25px 25px;
+}   
+
+.tarif{
+    display: flex;
+	justify-content: end;
+    width: 60%;
+}
+
+.endtitle{
+    display: flex;
+	justify-content: center;
+    
+}
+
+
+
+
